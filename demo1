@@ -1,3 +1,5 @@
 name = "门庆.西"
 age = 38
 print("%s的年龄为%d岁" % (name,age))
+
+ttom做了很多事
